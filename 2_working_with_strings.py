@@ -21,14 +21,23 @@ print("Concatenated String:", message)  # Output: Hello World
 
 phrase = "Python is FUN!"
 
-# # Convert all characters to lowercase
-# print("Lowercase:", phrase.lower())  # Output: python is fun!
+# Convert all characters to lowercase
+print("Lowercase:", phrase.lower())  # Output: python is fun!
 
-# # Convert all characters to uppercase
-# print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
+# Convert all characters to uppercase
+print("Uppercase:", phrase.upper())  # Output: PYTHON IS FUN!
 
-# # Check if all characters are uppercase
-# print("Is Uppercase?", phrase.isupper())  # Output: False
+name = "Logan Vargas"
+
+print("Lowercase:", name.lower())
+print("Uppercase:", name.upper())
+
+# Check if all characters are uppercase
+print("Is Uppercase?", phrase.isupper())  # Output: False
+
+print("name ", name.isupper())
+
+print("name", name.capitalize())
 
 # # Find the length of the string
 # print("Length of phrase:", len(phrase))  # Output: 14
