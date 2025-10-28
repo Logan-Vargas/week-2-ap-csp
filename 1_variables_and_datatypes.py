@@ -50,6 +50,7 @@ print(f"{name} is {age} years old. Hungry? {hungry}")
 # # Example (VALID):
 # name1 = "John"
 
+
 # # 2. No spaces — use underscores instead
 # # Example (INVALID): first name = "John" ❌
 # # Example (VALID):
