@@ -24,7 +24,7 @@ print("The sum is:", sum_result)
 # Common Data Types in Python:
 
 # 1. Strings: Text data enclosed in quotes
-name = "John"
+name = "Logan"
 print("Name:", name)
 
 # 2. Numbers: Numeric data (integers or floats)
