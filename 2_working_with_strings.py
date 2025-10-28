@@ -50,6 +50,13 @@ print("Lenght of text:", len(dec_of_ind))
 # # 3. Indexing and Slicing
 # # ----------------------------------------
 
+Chicago_mayor = "Johnson"
+print(len(Chicago_mayor))
+
+print(Chicago_mayor[-1])
+
+
+
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
