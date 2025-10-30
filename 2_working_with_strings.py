@@ -78,6 +78,8 @@ print(prase3.lower())
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
+print(prase3[0])
+
 # # Example combining everything:
 # print("Formatted Example:", (greeting + " " + name + "!").upper())
 # # Output: HELLO WORLD!
@@ -99,11 +101,11 @@ print(prase3.lower())
 # # String Methods
 # # ----------------------------------------
 
-# sentence = "Python is fun to learn"
+sentence = "Python is fun to learn"
 
-# # .split(): Splits the string into a list of words
-# words = sentence.split()
-# print("Split result:", words)
+# .split(): Splits the string into a list of words
+words = sentence.split()
+print("Split result:", words)
 
 # # .format(): Allows inserting values into strings using {}
 # name = "Marvin"
